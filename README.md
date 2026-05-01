@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا سحر الليل وعطر الغرام
+> تعالي لقلبي نعيش في وئام
+> أذوب بهواك وعشقك نار
+> وشوقي إليك كبحر ومسار
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
